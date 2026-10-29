@@ -1,0 +1,215 @@
+{
+  "references": [
+    [
+      "ugm",
+      "UGM · Pencanangan Zero Waste",
+      "2013",
+      "https://ugm.ac.id/id/berita/7995-ft-ugm-pemkab-bantul-canangkan-zero-waste-di-pantai-pandansimo/",
+      "Berita institusi; terbit 9 Juli, kegiatan 8 Juli 2013."
+    ],
+    [
+      "sabono",
+      "Ferdy Sabono · Arahan master plan",
+      "2013",
+      "https://etd.repository.ugm.ac.id/penelitian/detail/66047",
+      "Abstrak tesis; naskah lengkap tidak ditelaah."
+    ],
+    [
+      "darmawi",
+      "Ahmad Darmawi · Pengomposan daun cemara",
+      "2013",
+      "https://etd.repository.ugm.ac.id/penelitian/detail/63311",
+      "Abstrak tesis; hasil penelitian pada konteks 2013."
+    ],
+    [
+      "fitriyani",
+      "Rizki Fitriyani · Pemanfaatan limbah tulang ikan",
+      "2013",
+      "https://etd.repository.ugm.ac.id/penelitian/detail/63601",
+      "Abstrak tesis; bukan bukti operasi fasilitas saat ini."
+    ],
+    [
+      "saputra",
+      "Agung Eka Saputra · Pengelolaan greywater",
+      "2014",
+      "https://etd.repository.ugm.ac.id/penelitian/detail/74838",
+      "Abstrak tesis; alternatif perencanaan pengolahan."
+    ],
+    [
+      "wisata",
+      "Ramdhani & Sukmawati · Prioritas pengembangan Pantai Baru",
+      "2025",
+      "https://journals.itb.ac.id/index.php/wpar/article/view/26059",
+      "Abstrak artikel; terbit 31 Desember 2025. DOI: 10.5614/wpar.2025.23.2.07."
+    ],
+    [
+      "tps",
+      "Kalurahan Poncosari · Sosialisasi TPS baru",
+      "2026",
+      "https://poncosari.bantulkab.go.id/first/artikel/2736",
+      "Terbit 12 Februari; sosialisasi 11 Februari 2026. Rencana, bukan konfirmasi realisasi."
+    ],
+    [
+      "bantul",
+      "Pemkab Bantul · Laut Sehat Bebas Sampah",
+      "2026",
+      "https://bantulkab.go.id/berita/detail/7670/deklarasi-laut-sehat-bebas-sampah-digelar-di-pantai-pandansimo.html",
+      "Laporan kegiatan 22 Oktober 2026; bukan evaluasi dampak jangka panjang."
+    ],
+    [
+      "zwia",
+      "ZWIA · Zero Waste Hierarchy 8.1",
+      "2025",
+      "https://zwia.org/zwh/",
+      "Kerangka prinsip; Nalar Lestari tidak berafiliasi dengan ZWIA."
+    ]
+  ],
+  "timeline": [
+    [
+      "8 Juli 2013",
+      "Pencanangan & pameran master plan",
+      "Inisiatif",
+      "UGM dan Pemkab Bantul mencanangkan konsep zero waste. Pencanangan menunjukkan arah kebijakan; belum membuktikan keberhasilan pengelolaan.",
+      "ugm",
+      "Kawasan historis"
+    ],
+    [
+      "2013",
+      "Rancangan kawasan zero waste",
+      "Penelitian",
+      "Sabono menghubungkan persampahan dengan tata ruang, aktivitas, dan fasilitas kawasan. Kajian ini menawarkan arahan desain.",
+      "sabono",
+      "Kawasan historis"
+    ],
+    [
+      "2013",
+      "Mengolah residu vegetasi",
+      "Penelitian",
+      "Darmawi meneliti pengomposan daun cemara udang di Pantai Baru. Potensi pengolahan perlu diuji kembali terhadap bahan dan operasi saat ini.",
+      "darmawi",
+      "Pantai Baru"
+    ],
+    [
+      "2013",
+      "Pemanfaatan sisa pengolahan ikan",
+      "Penelitian",
+      "Fitriyani menguji formulasi pelet dari limbah tulang ikan dan bahan lainnya. Penerapan memerlukan kendali mutu dan keamanan bahan.",
+      "fitriyani",
+      "Kawasan historis"
+    ],
+    [
+      "2014",
+      "Alternatif pengolahan greywater",
+      "Usulan penelitian",
+      "Saputra merencanakan subsurface constructed wetland untuk limbah cucian warung. Hasil perencanaan bukan konfirmasi fasilitas terbangun.",
+      "saputra",
+      "Kawasan historis"
+    ],
+    [
+      "31 Desember 2025",
+      "Prioritas wisata berbasis masyarakat",
+      "Penelitian",
+      "Studi AHP menempatkan partisipasi masyarakat sebagai prioritas dan menyebut kerawanan abrasi di Pantai Baru.",
+      "wisata",
+      "Pantai Baru"
+    ],
+    [
+      "11 Februari 2026",
+      "Rencana TPS pengganti",
+      "Rencana",
+      "Sosialisasi menyebut penggantian TPS yang beralih fungsi menjadi lokasi KNMP, di utara KNMP/JJLS, dengan rencana kapasitas sekitar empat ton. Realisasi belum dikonfirmasi.",
+      "tps",
+      "Pantai Baru"
+    ],
+    [
+      "22 Oktober 2026",
+      "Gerakan Laut Sehat Bebas Sampah",
+      "Kegiatan",
+      "Pemkab melaporkan bersih pantai, penanaman cemara laut, dan edukasi pemilahan di Pantai Pandansimo. Keberlanjutan operasional perlu ditelusuri.",
+      "bantul",
+      "Pantai Pandansimo"
+    ]
+  ],
+  "gaps": [
+    [
+      "Organik",
+      "Organik & peluang pengomposan",
+      "Darmawi (2013) mendokumentasikan persoalan residu daun dan menguji pengomposannya.",
+      "darmawi",
+      "Recycle / Compost",
+      "Pemisahan bahan menentukan mutu pengolahan.",
+      "Uji pengomposan skala terbatas dengan pencatatan masukan, kelembapan, dan keluaran; evaluasi pemanfaatan residu ikan secara terpisah.",
+      "Apakah bahan masih dibakar? Siapa operator dan pengguna kompos?"
+    ],
+    [
+      "Air limbah",
+      "Greywater kuliner",
+      "Saputra (2014) melaporkan limbah cucian yang diresapkan ke tanah dan merancang alternatif wetland.",
+      "saputra",
+      "Rethink / Redesign",
+      "Kebutuhan pengolahan harus mengikuti debit dan karakter air limbah aktual.",
+      "Bandingkan pengolahan terdesentralisasi, prapengolahan lemak, kebutuhan lahan, biaya, dan pemeliharaan.",
+      "Ke mana aliran cucian sekarang? Berapa debit, beban pencemar, dan ruang tersedia?"
+    ],
+    [
+      "Infrastruktur",
+      "TPS & akses layanan",
+      "Poncosari (2026) mengumumkan rencana TPS pengganti berkapasitas sekitar empat ton.",
+      "tps",
+      "Rethink / Redesign",
+      "Kapasitas tampung tidak sama dengan kapasitas pengolahan harian.",
+      "Audit cakupan layanan, akses kendaraan, jadwal angkut, dan pemisahan aliran material sebelum menentukan kapasitas.",
+      "Apakah TPS telah dibangun dan beroperasi? Siapa pengelola dan tujuan pengangkutannya?"
+    ],
+    [
+      "Pesisir",
+      "Ketahanan lingkungan & infrastruktur",
+      "Studi Pantai Baru (2025) menyebut kerawanan abrasi dalam konteks pengembangan wisata.",
+      "wisata",
+      "Rethink / Redesign",
+      "Penempatan fasilitas perlu mempertimbangkan dinamika pesisir.",
+      "Dokumentasikan garis pantai dan kondisi aset secara berulang; telaah lokasi fasilitas dengan data bahaya yang sah.",
+      "Aset mana terpapar? Adakah rekaman perubahan garis pantai dan kerusakan?"
+    ],
+    [
+      "Masyarakat",
+      "Partisipasi & operasi",
+      "Kajian 2025 menekankan partisipasi; laporan Bantul 2026 mencatat edukasi dan kegiatan bersama.",
+      "bantul",
+      "Reduce / Reuse",
+      "Kampanye perlu terhubung dengan pembagian tugas dan layanan rutin.",
+      "Susun kesepakatan pedagang–pengelola, pengurangan kemasan, jadwal kerja, dan indikator layanan sederhana.",
+      "Apakah pemilahan berjalan setiap hari? Bagaimana pembiayaan, tanggung jawab, dan tindak lanjut?"
+    ]
+  ],
+  "waste": [
+    {
+      "name": "Daun cemara",
+      "volume": 264,
+      "share": 27
+    },
+    {
+      "name": "Sampah kuliner",
+      "volume": 105,
+      "share": 11
+    },
+    {
+      "name": "Kotoran ternak",
+      "volume": 400,
+      "share": 40
+    },
+    {
+      "name": "Plastik",
+      "volume": 217,
+      "share": 22
+    }
+  ],
+  "observations": [],
+  "revisions": [
+    {
+      "date": "2026-10-28",
+      "version": "1.1",
+      "description": "Kajian daring awal: sintesis sumber 2013–2026. Belum memuat observasi primer tim."
+    }
+  ]
+}

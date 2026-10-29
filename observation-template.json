@@ -1,0 +1,23 @@
+{
+  "instructions": "Template kosong, bukan observasi. Tambahkan hanya data aktual ke research-data.json observations setelah peninjauan. Jangan mengganti bukti historis.",
+  "observation_id": "",
+  "beach": "",
+  "zone": "",
+  "latitude": null,
+  "longitude": null,
+  "coordinate_source": "",
+  "category": "",
+  "observation_date": "",
+  "observation_description": "",
+  "photo_url": null,
+  "photo_caption": "",
+  "photo_permission": "",
+  "evidence_source": "",
+  "interview_consent": null,
+  "verification_status": "Belum diverifikasi",
+  "related_reference_ids": [],
+  "evidence_relation": "",
+  "preliminary_interpretation": "",
+  "proposed_solution": "",
+  "updated_conclusion": ""
+}
