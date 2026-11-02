@@ -1,0 +1,42 @@
+[
+  {
+    "group": "wawasan",
+    "menu": "Zero Waste",
+    "title": "Memahami Zero Waste: Dari Pengurangan Limbah hingga Perubahan Sistem",
+    "desc": "Hierarki tindakan, pengurangan sumber daya, dan sistem sirkular.",
+    "categories": [
+      "Zero Waste"
+    ],
+    "url": "/wawasan/zero-waste/"
+  },
+  {
+    "group": "wawasan",
+    "menu": "Green Building",
+    "title": "Memahami Green Building",
+    "desc": "Prinsip bangunan yang hemat sumber daya serta mendukung kesehatan dan kenyamanan.",
+    "categories": [
+      "Green Building"
+    ],
+    "url": "/wawasan/green-building/"
+  },
+  {
+    "group": "kerja",
+    "menu": "Kajian Pantai Baru Pandansimo",
+    "title": "Menelusuri Jejak Zero Waste di Pantai Baru Pandansimo",
+    "desc": "Kajian pesisir berbasis literatur, pengamatan kawasan, dan wawancara lapangan.",
+    "categories": [
+      "Kajian Pesisir"
+    ],
+    "url": "/kerja-kami/pandansimo-zero-waste/"
+  },
+  {
+    "group": "kerja",
+    "menu": "Kawasan Bebas Kendaraan",
+    "title": "Kota untuk Manusia: Kawasan Bebas Kendaraan Bermotor",
+    "desc": "Karya edukasi tim tentang ruang jalan, partisipasi masyarakat, dan mobilitas berkelanjutan.",
+    "categories": [
+      "Karya Edukasi"
+    ],
+    "url": "/kerja-kami/kawasan-bebas-kendaraan/"
+  }
+]
