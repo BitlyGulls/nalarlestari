@@ -38,5 +38,15 @@
       "Karya Edukasi"
     ],
     "url": "/kerja-kami/kawasan-bebas-kendaraan/"
+  },
+  {
+    "group": "kerja",
+    "menu": "Diskusi Software Spasial",
+    "title": "Dari Software Spasial Menuju Infrastruktur Berkelanjutan",
+    "desc": "Diskusi tentang Metashape, QGIS, dan GAMIT/GLOBK untuk memahami kondisi infrastruktur.",
+    "categories": [
+      "Diskusi Video"
+    ],
+    "url": "/kerja-kami/software-spasial/"
   }
 ]

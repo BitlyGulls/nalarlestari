@@ -1,0 +1,372 @@
+{
+  "articles": [
+    {
+      "id": "metashape",
+      "name": "Agisoft Metashape",
+      "number": "01",
+      "speaker": "Helik Susilo",
+      "eyebrow": "FOTOGRAMETRI",
+      "headline": "Dari foto menjadi model 3D",
+      "summary": "Mengolah foto udara dan foto objek menjadi ortofoto atau model 3D untuk membantu dokumentasi dan pengamatan bangunan.",
+      "title": "Review Agisoft Metashape: Pemanfaatan Teknologi Fotogrametri untuk Mendukung Arsitektur Hijau dan Pemeliharaan Bangunan Berkelanjutan",
+      "sections": [
+        {
+          "heading": "Pendahuluan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Perkembangan teknologi digital telah memberikan perubahan dalam dunia arsitektur, khususnya dalam proses perencanaan, pembangunan, inspeksi, dan pemeliharaan bangunan. Salah satu teknologi yang dapat dimanfaatkan adalah fotogrametri digital, yaitu teknik memperoleh informasi bentuk, ukuran, dan posisi suatu objek melalui pengolahan sejumlah foto yang diambil dari berbagai sudut pandang. Salah satu perangkat lunak yang digunakan untuk keperluan tersebut adalah Agisoft Metashape. Software ini memungkinkan pengguna mengubah kumpulan foto bangunan menjadi model tiga dimensi (3D) yang dapat digunakan untuk dokumentasi, pengukuran, dan evaluasi kondisi fisik bangunan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dalam perspektif arsitektur hijau (green architecture), pemanfaatan teknologi ini menjadi menarik karena keberlanjutan bangunan tidak hanya ditentukan oleh material ramah lingkungan atau efisiensi energi, tetapi juga oleh bagaimana bangunan dipelihara agar dapat digunakan dalam jangka waktu panjang. Dengan demikian, Agisoft Metashape memiliki potensi sebagai teknologi pendukung inspeksi dan pemeliharaan bangunan yang lebih terukur, terdokumentasi, dan berorientasi pada keberlanjutan."
+            }
+          ]
+        },
+        {
+          "heading": "Mengenal Agisoft Metashape",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Agisoft Metashape merupakan perangkat lunak fotogrametri yang berfungsi mengolah foto digital menjadi informasi tiga dimensi. Secara sederhana, software ini bekerja dengan menggabungkan sejumlah foto dari objek yang sama untuk membentuk representasi digital dari objek tersebut. Sebagai contoh, ketika seseorang ingin membuat model digital sebuah gedung, ia dapat mengambil foto gedung dari berbagai arah menggunakan kamera biasa maupun drone. Foto-foto tersebut kemudian dimasukkan ke dalam Agisoft Metashape untuk diproses. Software akan mengidentifikasi kesamaan objek pada foto, memperkirakan posisi kamera, dan merekonstruksi bentuk objek berdasarkan informasi yang diperoleh dari foto-foto tersebut."
+            },
+            {
+              "type": "paragraph",
+              "text": "Hasil pengolahan dapat berupa point cloud, model permukaan tiga dimensi, tekstur bangunan, dan orthophoto. Produk-produk tersebut memberikan informasi yang lebih lengkap dibandingkan dokumentasi foto biasa karena memungkinkan pengguna melihat dan mengukur objek dalam representasi spasial. Bagi pembaca awam, keunggulan utamanya adalah kemampuan mengubah foto yang sebelumnya hanya berfungsi sebagai dokumentasi visual menjadi informasi digital yang dapat digunakan untuk pengukuran dan evaluasi bangunan."
+            }
+          ]
+        },
+        {
+          "heading": "Pemanfaatan Agisoft Metashape untuk Inspeksi Bangunan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Salah satu penerapan Agisoft Metashape yang relevan dengan bidang arsitektur hijau adalah inspeksi kondisi bangunan. Dalam praktiknya, bangunan mengalami penurunan kondisi akibat faktor usia, cuaca, kelembapan, beban penggunaan, dan pengaruh lingkungan. Kerusakan tersebut dapat berupa retakan dinding, pengelupasan cat, kerusakan atap, perubahan bentuk elemen bangunan, maupun kerusakan pada bagian fasad."
+            },
+            {
+              "type": "paragraph",
+              "text": "Melalui dokumentasi fotogrametri, kondisi bangunan dapat direpresentasikan dalam model tiga dimensi. Model tersebut membantu pengelola bangunan mendokumentasikan lokasi dan kondisi kerusakan yang terlihat, serta melakukan pengukuran terhadap bagian-bagian tertentu. Sebagai contoh, pada pemeriksaan fasad bangunan, pengguna dapat mengidentifikasi bagian dinding yang mengalami pengelupasan cat atau retakan. Informasi tersebut dapat digunakan untuk memperkirakan luas area yang memerlukan perbaikan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pada pemeriksaan atap, foto yang diambil menggunakan drone dapat membantu mendokumentasikan kondisi penutup atap dan mengidentifikasi indikasi kerusakan yang terlihat tanpa harus selalu melakukan pemeriksaan langsung pada seluruh bagian atap. Selain itu, model tiga dimensi juga dapat digunakan untuk mendokumentasikan kondisi bangunan secara berkala. Model yang dihasilkan pada periode berbeda dapat dibandingkan untuk mengamati perubahan kondisi geometrik bangunan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Meskipun demikian, hasil fotogrametri tidak secara otomatis dapat menentukan tingkat keamanan struktur. Pemeriksaan terhadap retakan, deformasi, dan kerusakan struktural tetap memerlukan metode pengukuran serta analisis teknis yang sesuai."
+            }
+          ]
+        },
+        {
+          "heading": "Keterkaitan dengan Arsitektur Hijau (Green Architecture)",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Konsep arsitektur hijau sering dikaitkan dengan penghematan energi, penggunaan material ramah lingkungan, pengelolaan air, dan pengurangan emisi karbon. Namun, terdapat aspek lain yang tidak kalah penting, yaitu pemeliharaan bangunan sepanjang umur layanannya. Bangunan yang dirancang dengan baik tetap membutuhkan pemeliharaan agar kinerja dan fungsi bangunan dapat dipertahankan. Apabila kerusakan tidak teridentifikasi sejak awal, permasalahan kecil dapat berkembang menjadi kerusakan yang lebih besar sehingga membutuhkan material, biaya, dan energi perbaikan yang lebih banyak."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dalam konteks ini, Agisoft Metashape dapat membantu menyediakan informasi kondisi bangunan sebagai dasar pengambilan keputusan pemeliharaan. Terdapat beberapa aspek keberlanjutan yang dapat dikaitkan dengan penggunaan software tersebut."
+            },
+            {
+              "type": "subheading",
+              "text": "Pertama, efisiensi penggunaan material."
+            },
+            {
+              "type": "paragraph",
+              "text": "Model tiga dimensi dan orthophoto dapat membantu mengidentifikasi bagian bangunan yang membutuhkan perbaikan. Dengan demikian, pekerjaan pemeliharaan dapat diarahkan pada area yang benar-benar mengalami kerusakan, sehingga penggunaan material berpotensi menjadi lebih efisien."
+            },
+            {
+              "type": "subheading",
+              "text": "Kedua, perpanjangan umur layanan bangunan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dokumentasi kondisi bangunan secara berkala memungkinkan pengelola mengetahui perkembangan kerusakan. Penanganan yang dilakukan lebih awal dapat mencegah kerusakan berkembang menjadi lebih serius dan membantu mempertahankan umur layanan bangunan."
+            },
+            {
+              "type": "subheading",
+              "text": "Ketiga, pengurangan limbah konstruksi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pemeliharaan yang didasarkan pada informasi kondisi bangunan berpotensi mengurangi pekerjaan pembongkaran dan penggantian material yang sebenarnya masih layak digunakan. Hal ini sejalan dengan prinsip pengurangan limbah konstruksi dan pemanfaatan sumber daya secara bertanggung jawab."
+            },
+            {
+              "type": "subheading",
+              "text": "Keempat, efisiensi biaya pemeliharaan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Informasi mengenai lokasi, luas, dan volume pekerjaan perbaikan dapat membantu pengelola memperkirakan kebutuhan material dan anggaran. Dengan perencanaan yang lebih baik, pekerjaan pemeliharaan dapat dilaksanakan secara lebih terarah."
+            }
+          ]
+        },
+        {
+          "heading": "Kelebihan dan Keterbatasan Agisoft Metashape",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Dari sisi pemanfaatan, Agisoft Metashape memiliki beberapa keunggulan. Software ini mampu menghasilkan model tiga dimensi dari foto digital, mendukung pengukuran objek, menghasilkan orthophoto, serta menyediakan dokumentasi kondisi bangunan yang dapat disimpan dan dibandingkan pada waktu berbeda. Penggunaan kamera biasa maupun drone juga memberikan fleksibilitas dalam proses pengambilan data, bergantung pada karakteristik bangunan dan kebutuhan inspeksi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Namun, terdapat beberapa keterbatasan yang perlu diperhatikan. Kualitas model sangat bergantung pada kualitas foto, kondisi pencahayaan, tingkat tumpang tindih foto, dan geometri pengambilan gambar. Permukaan yang reflektif, transparan, atau memiliki sedikit tekstur juga dapat menyulitkan proses rekonstruksi. Selain itu, penggunaan Agisoft Metashape membutuhkan perangkat komputer dengan kemampuan pemrosesan yang memadai, khususnya ketika mengolah foto dalam jumlah besar."
+            },
+            {
+              "type": "paragraph",
+              "text": "Hal penting lainnya adalah bahwa model tiga dimensi yang terlihat realistis belum tentu memiliki ketelitian geometrik yang tinggi. Untuk pengukuran yang membutuhkan ketelitian, diperlukan georeferensi dan titik kontrol yang sesuai dengan metode, pengujian menggunakan titik pemeriksaan independen, dan evaluasi ketidakpastian pengukuran. Software ini juga tidak dapat secara langsung mendeteksi kerusakan tersembunyi di dalam dinding, kondisi tulangan, kekuatan material, maupun keamanan struktur bangunan. Oleh karena itu, Metashape lebih tepat digunakan sebagai perangkat pendukung dokumentasi dan inspeksi geometrik, bukan sebagai pengganti pemeriksaan teknis oleh tenaga ahli."
+            }
+          ]
+        },
+        {
+          "heading": "Kesimpulan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Agisoft Metashape merupakan salah satu perangkat lunak fotogrametri yang memiliki potensi untuk mendukung pengelolaan bangunan secara berkelanjutan. Kemampuannya mengubah foto digital menjadi model tiga dimensi memberikan peluang bagi pengelola bangunan untuk melakukan dokumentasi, pengukuran, inspeksi, dan pemantauan kondisi bangunan secara lebih sistematis. Dalam perspektif arsitektur hijau, manfaat software ini terutama terletak pada dukungannya terhadap pemeliharaan preventif, efisiensi penggunaan material, pengurangan potensi limbah konstruksi, serta perpanjangan umur layanan bangunan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Meskipun demikian, kontribusi terhadap keberlanjutan tidak terjadi secara otomatis melalui penggunaan software. Manfaat lingkungan dan ekonomi baru dapat diwujudkan apabila informasi yang dihasilkan benar-benar digunakan untuk memperbaiki strategi pemeliharaan dan pengelolaan bangunan. Dengan demikian, Agisoft Metashape dapat dipandang sebagai salah satu teknologi digital yang mendukung penerapan prinsip green architecture, khususnya dalam aspek inspeksi, konservasi, dan pemeliharaan bangunan sepanjang siklus hidupnya."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Agisoft LLC · Metashape User Manuals",
+          "url": "https://www.agisoft.com/downloads/user-manuals/"
+        },
+        {
+          "label": "De Fino, Galantucci & Fatiguso (2023) · Condition Assessment of Heritage Buildings via Photogrammetry",
+          "url": "https://doi.org/10.3390/heritage6110367"
+        },
+        {
+          "label": "Hill, Jalloul, Movahedi & Choi (2023) · Sustainable Management of the Built Environment",
+          "url": "https://doi.org/10.1061/JMENEA.MEENG-4759"
+        },
+        {
+          "label": "Sánchez-Aparicio dkk. (2023) · Detection of damage in heritage constructions based on 3D point clouds",
+          "url": "https://doi.org/10.1016/j.jobe.2023.107440"
+        }
+      ]
+    },
+    {
+      "id": "qgis",
+      "name": "QGIS",
+      "number": "02",
+      "speaker": "Satrio Tunggul Satoto Jagad",
+      "eyebrow": "ANALISIS SPASIAL",
+      "headline": "Membaca hubungan di dalam peta",
+      "summary": "Menggabungkan dan menganalisis data berdasarkan lokasi untuk memahami persoalan jalan maupun potensi energi terbarukan.",
+      "title": "QGIS: Membaca Hubungan Data untuk Infrastruktur Berkelanjutan",
+      "sections": [
+        {
+          "heading": "Mengenal QGIS",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "QGIS adalah perangkat lunak Sistem Informasi Geografis (SIG) yang digunakan untuk membuat, mengelola, menampilkan, dan menganalisis data yang memiliki informasi lokasi. Perangkat lunak ini bersifat gratis dan open source, sehingga dapat digunakan dan dipelajari tanpa biaya lisensi perangkat lunak QGIS. Akses terhadap data, layanan, komputasi, atau infrastruktur lain tetap dapat memiliki ketentuan dan biaya masing-masing."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dalam diskusi, Jagad menjelaskan bahwa QGIS membantu menggabungkan berbagai peta sehingga hubungan antar informasi di suatu lokasi dapat ditelaah. Sebagai contoh, peta ruas jalan dapat dilihat bersama data jenis tanah, curah hujan, hidrografi, dan kondisi permukaan. Gabungan ini memberi dasar untuk mengajukan pertanyaan, bukan otomatis membuktikan penyebab suatu masalah."
+            }
+          ]
+        },
+        {
+          "heading": "Data Masukan, Pengolahan, dan Hasil",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Data masukan dapat berupa data vektor seperti titik, garis, dan poligon; raster seperti citra atau model elevasi; serta tabel yang mempunyai informasi lokasi. Data tersebut dapat berasal dari pengukuran, pemetaan terdahulu, penginderaan jauh, atau sumber resmi yang sesuai dengan tujuan kajian. Ketepatan lokasi, waktu perekaman, skala, kualitas, dan izin penggunaan data perlu diperiksa."
+            },
+            {
+              "type": "paragraph",
+              "text": "Sebelum dianalisis, data perlu disiapkan: periksa sistem koordinat, kelengkapan atribut, konsistensi satuan, dan kesesuaian wilayah kajian. QGIS menyediakan alat untuk pengelolaan data, penggabungan lapisan, analisis spasial, serta pembuatan peta. Hasilnya dapat berupa peta, tabel, atau lapisan data baru; pilihan metode bergantung pada pertanyaan penelitian dan kualitas data."
+            }
+          ]
+        },
+        {
+          "heading": "Membaca Masalah pada Infrastruktur Jalan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Salah satu contoh yang dibahas adalah rencana kajian terhadap lokasi deformasi atau kerusakan jalan yang berulang. Informasi lokasi dapat ditampilkan bersama data litologi, kondisi tanah dan gambut, jaringan hidrologi, hujan, serta kemungkinan genangan. Dengan membaca data secara bersama, peneliti dapat mengidentifikasi pola atau lokasi yang perlu diprioritaskan untuk penelaahan lanjutan."
+            },
+            {
+              "type": "paragraph",
+              "text": "Keterkaitan spasial tidak sama dengan bukti sebab-akibat. Kondisi dan mekanisme penurunan perlu diperiksa melalui pengukuran, data geoteknik, riwayat konstruksi dan pemeliharaan, serta analisis yang sesuai. Rencana ini merupakan contoh pertanyaan riset dalam diskusi, bukan hasil kajian yang sudah dibuktikan."
+            }
+          ]
+        },
+        {
+          "heading": "Meninjau Potensi Energi dan Menyampaikan Informasi",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Dalam contoh energi terbarukan, data kecepatan angin, radiasi matahari, akses, penggunaan lahan, dan batas kawasan dapat ditelaah sebagai penyaringan awal lokasi panel surya atau turbin angin. Informasi tersebut membantu memilih lokasi yang layak diselidiki lebih lanjut, tetapi belum dengan sendirinya menjamin kelayakan teknis, perizinan, maupun produksi energi aktual. Perhitungan energi memerlukan data sumber daya, spesifikasi sistem, kondisi setempat, dan verifikasi yang memadai."
+            },
+            {
+              "type": "paragraph",
+              "text": "QGIS juga dapat digunakan untuk menyiapkan data yang disajikan dalam peta web. Untuk berbagi peta secara daring, mungkin diperlukan perangkat tambahan, layanan hosting, dan pengaturan hak akses sesuai kebutuhan. Informasi lokasi infrastruktur bawah tanah hanya dapat ditampilkan secara tepat apabila data posisi dan kedalamannya memang tersedia serta tervalidasi."
+            }
+          ]
+        },
+        {
+          "heading": "Keunggulan, Keterbatasan, dan Kaitan Keberlanjutan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Keunggulan QGIS mencakup lisensi open source, kemampuan memadukan jenis data, serta ketersediaan alat dan plugin untuk beragam kebutuhan. Bagi pengguna baru, mempelajari antarmuka, sistem koordinat, serta cara memilih metode analisis tetap membutuhkan latihan. Antarmuka yang terasa mudah atau sulit dapat berbeda bagi setiap orang dan pengalaman sebelumnya."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pemanfaatan data spasial berpotensi membantu survei, perencanaan, dan pemeliharaan yang lebih terarah. Namun, manfaat lingkungan, waktu, maupun biaya tidak otomatis diperoleh hanya karena software digunakan. Manfaat tersebut perlu dinilai berdasarkan cara penggunaan, keputusan yang diambil, dan bukti penerapannya."
+            }
+          ]
+        },
+        {
+          "heading": "Kesimpulan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "QGIS adalah ruang kerja untuk menempatkan informasi pada konteks lokasinya. Dalam penelitian infrastruktur berkelanjutan, perannya terutama membantu merumuskan pertanyaan, menggabungkan bukti, dan mengomunikasikan hasil agar dapat ditinjau bersama. Keputusan rekayasa tetap memerlukan data yang memadai, verifikasi, dan pertimbangan tenaga ahli."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "QGIS Project · QGIS overview",
+          "url": "https://qgis.org/project/overview/"
+        },
+        {
+          "label": "QGIS Project · User Manual",
+          "url": "https://docs.qgis.org/latest/en/docs/user_manual/"
+        },
+        {
+          "label": "QGIS Project · QGIS Server Manual",
+          "url": "https://docs.qgis.org/latest/en/docs/server_manual/"
+        }
+      ]
+    },
+    {
+      "id": "gamit",
+      "name": "GAMIT/GLOBK",
+      "number": "03",
+      "speaker": "Asri Affriani",
+      "eyebrow": "PEMANTAUAN GNSS",
+      "headline": "Melihat perubahan posisi",
+      "summary": "Mengolah pengamatan GNSS untuk membaca perubahan koordinat dari waktu ke waktu, termasuk dalam pemantauan bendungan.",
+      "title": "GAMIT/GLOBK: Teknologi Geospasial untuk Mendukung Green Engineering dan Infrastruktur Berkelanjutan",
+      "sections": [
+        {
+          "heading": "Mengenal GAMIT/GLOBK dan Perannya dalam Teknologi Geospasial",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Perkembangan teknologi geospasial memberikan kontribusi penting dalam mendukung pembangunan infrastruktur berkelanjutan. Salah satu perangkat lunak yang berperan dalam pemantauan perubahan permukaan bumi dan deformasi infrastruktur adalah GAMIT/GLOBK. Perangkat lunak ini dikembangkan melalui kolaborasi Massachusetts Institute of Technology (MIT), Scripps Institution of Oceanography, dan Harvard University. GAMIT/GLOBK digunakan untuk pengolahan dan analisis data Global Navigation Satellite System (GNSS), khususnya dalam penentuan posisi presisi tinggi dan kajian geodinamika."
+            },
+            {
+              "type": "paragraph",
+              "text": "GAMIT (GNSS at MIT) berfungsi mengolah data observasi GNSS, terutama pengamatan fase pembawa (carrier phase), untuk menghasilkan estimasi posisi tiga dimensi stasiun pengamatan, parameter orbit satelit, serta keterlambatan atmosfer. Sementara itu, GLOBK (Global Kalman Filter) berfungsi menggabungkan berbagai solusi pengolahan geodetik menggunakan algoritma Kalman Filter. Kombinasi keduanya memungkinkan analisis koordinat, perubahan posisi, kecepatan pergerakan titik (velocity), dan deret waktu (time series). Kemampuan tersebut menjadikan GAMIT/GLOBK banyak dimanfaatkan dalam penelitian deformasi kerak bumi, pergerakan lempeng tektonik, penurunan tanah, serta monitoring infrastruktur (Herring et al., 2018)."
+            }
+          ]
+        },
+        {
+          "heading": "Fungsi dan Penerapan GAMIT/GLOBK dalam Monitoring Deformasi",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Dalam penerapannya, GAMIT/GLOBK memerlukan data observasi GNSS yang umumnya tersedia dalam format RINEX. Data tersebut diproses menggunakan GAMIT untuk memperoleh solusi koordinat beserta ketidakpastiannya. Selanjutnya, GLOBK menggabungkan hasil pengolahan dari berbagai sesi pengamatan untuk menghasilkan estimasi koordinat dan kecepatan pergerakan yang lebih konsisten."
+            },
+            {
+              "type": "paragraph",
+              "text": "Hasil pengolahan dapat disajikan dalam bentuk grafik perubahan posisi komponen East, North, dan Up (ENU), sehingga pola pergerakan horizontal maupun vertikal dapat dianalisis berdasarkan waktu. Informasi tersebut bermanfaat untuk mengidentifikasi kecenderungan deformasi dan mengevaluasi perubahan kondisi suatu wilayah atau infrastruktur."
+            },
+            {
+              "type": "paragraph",
+              "text": "Salah satu contoh penerapannya adalah monitoring deformasi bendungan. Sebagai infrastruktur strategis yang memiliki fungsi penyediaan air, irigasi, pembangkit listrik, dan pengendalian banjir, bendungan membutuhkan sistem pemantauan yang mampu mendukung keselamatan dan ketahanan struktur dalam jangka panjang. GAMIT/GLOBK dapat digunakan untuk menganalisis perubahan posisi titik-titik pengamatan di sekitar bendungan. Apabila ditemukan perubahan koordinat yang menunjukkan pola tidak normal, informasi tersebut dapat menjadi dasar pelaksanaan inspeksi dan evaluasi teknis lebih lanjut."
+            }
+          ]
+        },
+        {
+          "heading": "Keterkaitan dengan Green Engineering dan Sustainable Engineering Modelling",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Keterkaitan GAMIT/GLOBK dengan Green Engineering terletak pada pemanfaatan informasi geospasial untuk mendukung pengelolaan infrastruktur yang lebih efisien dan berorientasi pada keberlanjutan. Green Engineering tidak hanya menekankan penggunaan material ramah lingkungan dalam proses konstruksi, tetapi juga mempertimbangkan efisiensi sumber daya, pencegahan pencemaran, pengurangan limbah, serta keberlanjutan sepanjang siklus hidup infrastruktur."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dalam konteks Sustainable Engineering Modelling, kontribusi GAMIT/GLOBK dapat dikaitkan dengan empat aspek utama, yaitu strength, durability, environmental impact, dan cost-economic feasibility. Pada aspek strength, hasil monitoring GNSS dapat mendukung evaluasi stabilitas geometrik infrastruktur. Pada aspek durability, data time series membantu mengidentifikasi kecenderungan perubahan posisi dalam jangka panjang sehingga mendukung perencanaan pemeliharaan. Pada aspek environmental impact, informasi pergerakan permukaan tanah dapat digunakan untuk mengidentifikasi perubahan kondisi lingkungan di sekitar infrastruktur. Sementara itu, dari aspek ekonomi, informasi deformasi dapat membantu menentukan prioritas inspeksi dan pemeliharaan sehingga penggunaan sumber daya menjadi lebih terarah."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dengan demikian, GAMIT/GLOBK memberikan dukungan terhadap prinsip Green Engineering melalui penyediaan informasi untuk pengambilan keputusan berbasis data, khususnya dalam menjaga keselamatan dan mendukung pengelolaan umur layanan infrastruktur."
+            }
+          ]
+        },
+        {
+          "heading": "Kontribusi terhadap Pengurangan Risiko Bencana dan Predictive Maintenance",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Pemanfaatan GAMIT/GLOBK juga memiliki relevansi dengan Pengurangan Risiko Bencana. Monitoring perubahan posisi permukaan bumi dapat mendukung identifikasi indikasi pergerakan tanah, deformasi wilayah rawan bencana, serta perubahan kondisi geometrik infrastruktur strategis."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dalam pengelolaan bendungan, misalnya, informasi perubahan posisi dapat menjadi salah satu indikator pendukung dalam mengevaluasi kondisi bendungan. Integrasi informasi GNSS dengan data sensor lainnya dapat memperkuat sistem pemantauan dan mendukung pengambilan keputusan mitigasi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Lebih lanjut, data hasil pengolahan GAMIT/GLOBK dapat diintegrasikan dengan Artificial Intelligence (AI) untuk mendukung pendekatan predictive maintenance. Melalui analisis data historis dan pola deformasi, model AI dapat dikembangkan untuk mempelajari kecenderungan perubahan posisi dan memprediksi deformasi berdasarkan variabel pendukung. Pendekatan ini berpotensi mendukung pergeseran pemeliharaan dari reactive maintenance menuju preventive dan predictive maintenance. Potensi pengurangan keterlambatan deteksi, pemborosan material, dan kebutuhan rehabilitasi besar perlu dibuktikan melalui data, validasi model, dan evaluasi penerapannya."
+            }
+          ]
+        },
+        {
+          "heading": "Keunggulan, Keterbatasan, dan Tantangan Implementasi",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "GAMIT/GLOBK memiliki keunggulan dalam pengolahan data GNSS presisi tinggi, analisis perubahan koordinat, serta estimasi kecepatan pergerakan titik dalam jangka panjang. Software ini juga mendukung pengolahan jaringan GNSS dengan pendekatan ilmiah yang telah banyak digunakan dalam penelitian geodesi dan geodinamika."
+            },
+            {
+              "type": "paragraph",
+              "text": "Meskipun demikian, terdapat beberapa keterbatasan. Pengoperasiannya membutuhkan pemahaman mengenai sistem Linux, konfigurasi parameter pengolahan, serta interpretasi hasil geodetik. Selain itu, GNSS menghasilkan informasi berbasis titik sehingga tidak dapat menggambarkan deformasi seluruh permukaan objek secara langsung. GAMIT/GLOBK dalam alur ini berfungsi terutama untuk pengolahan dan analisis data; penggunaannya sendiri bukan sistem peringatan real-time yang lengkap maupun perangkat prediksi kerusakan struktur. Oleh karena itu, penggunaannya dapat dikombinasikan dengan teknologi lain, seperti Interferometric Synthetic Aperture Radar (InSAR), Robotic Total Station (RTS), sensor struktural, serta metode Artificial Intelligence (AI), sesuai tujuan dan validasi yang diperlukan."
+            }
+          ]
+        },
+        {
+          "heading": "GAMIT/GLOBK untuk Masa Depan Infrastruktur Berkelanjutan",
+          "paragraphs": [
+            {
+              "type": "paragraph",
+              "text": "Secara keseluruhan, GAMIT/GLOBK merupakan teknologi geospasial yang berpotensi mendukung penerapan Green Engineering melalui penyediaan informasi presisi tinggi untuk monitoring dan evaluasi kondisi infrastruktur. Pemanfaatannya dapat membantu mengarahkan pemeliharaan dan menilai peluang pengurangan pemborosan material akibat kerusakan yang terlambat ditangani; dampak dan umur layanan tetap perlu dievaluasi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Dengan integrasi multi-sensor dan pemodelan prediktif, GAMIT/GLOBK tidak hanya berperan dalam analisis geodetik, tetapi juga menjadi bagian dari pendekatan rekayasa yang mengutamakan keselamatan, efisiensi sumber daya, pengurangan risiko bencana, dan keberlanjutan lingkungan."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "Herring, King, Floyd & McClusky (2018) · Introduction to GAMIT/GLOBK, Release 10.7",
+          "url": "https://geoweb.mit.edu/gg/Intro_GG.pdf"
+        },
+        {
+          "label": "Herring, Floyd, King & McClusky (2015) · GLOBK Reference Manual, Release 10.6",
+          "url": "https://geoweb.mit.edu/gg/GLOBK_Ref.pdf"
+        },
+        {
+          "label": "MIT · GAMIT/GLOBK",
+          "url": "https://geoweb.mit.edu/gg/"
+        }
+      ]
+    }
+  ]
+}

@@ -14,5 +14,8 @@ logo, atau isi sumber pihak ketiga**. Ikuti ketentuan masing-masing pemilik.
 | Isi kajian dan rujukan | Narasi, data, serta nama/tautan sumber ditampilkan sebagai materi situs dan tidak otomatis dilisensikan ulang oleh MIT. Publikasi sumber asli tetap mengikuti hak pemiliknya. |
 
 Fraunces dan Poppins dimuat dari Google Fonts, tidak dibundel sebagai file font;
-masing-masing mengikuti lisensi fontnya. Akses ke tautan sumber eksternal dan
-video yang ditambahkan kemudian mengikuti ketentuan masing-masing layanan.
+masing-masing mengikuti lisensi fontnya. Kedua video diputar melalui YouTube;
+berkas videonya tidak disertakan dalam ZIP, dan penggunaan mengikuti ketentuan
+YouTube serta hak masing-masing pemilik. Sebuah repository publik membuat file
+asetnya dapat diunduh orang lain, sehingga hak publikasi dan penggunaan ulang
+perlu diperiksa sesuai tujuan dan ketentuan sumber masing-masing.
