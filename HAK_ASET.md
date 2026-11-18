@@ -19,3 +19,15 @@ berkas videonya tidak disertakan dalam ZIP, dan penggunaan mengikuti ketentuan
 YouTube serta hak masing-masing pemilik. Sebuah repository publik membuat file
 asetnya dapat diunduh orang lain, sehingga hak publikasi dan penggunaan ulang
 perlu diperiksa sesuai tujuan dan ketentuan sumber masing-masing.
+
+
+## Identitas Nalar Lestari dan studi Green Campus (18 November 2026)
+
+Logo penuh dan brandmark PNG merupakan aset yang disediakan pemilik Nalar Lestari
+untuk publikasi website. Hak atas merek/logo tetap pada pemiliknya; lisensi MIT
+untuk kode tidak otomatis memberikan hak penggunaan identitas merek.
+Ilustrasi garis pada 12 prinsip di `green-campus.js` dibuat sebagai SVG edukatif
+asli untuk halaman ini, bukan salinan ilustrasi buku atau milik UGM.
+Video Green Campus diputar dari YouTube; berkas videonya tidak dibundel.
+Teks bab lengkap dan gambar buku tidak disertakan. Tautan dan atribusi ke sumber
+penerbit, Yale, serta PIAT UGM ada pada halaman studi literatur.

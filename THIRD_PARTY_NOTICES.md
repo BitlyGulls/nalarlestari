@@ -15,13 +15,14 @@ bukan untuk foto, font, merek, atau materi sumber penelitian pihak ketiga.
 - Keterangan foto ilustrasi dan atribusi di halaman tetap dipertahankan.
 
 ## Font
-Plus Jakarta Sans dan Space Grotesk dimuat dari Google Fonts melalui CSS,
-seperti website asal. Berkas font tidak dibundel atau dilisensikan ulang dengan MIT.
-https://fonts.google.com/specimen/Plus+Jakarta+Sans
-https://fonts.google.com/specimen/Space+Grotesk
-Jika Google Fonts tidak dapat diakses, browser menggunakan font sans-serif pengganti.
+Fraunces dan Poppins dimuat dari Google Fonts melalui CSS. Berkas font tidak
+dibundel atau dilisensikan ulang dengan MIT.
+https://fonts.google.com/specimen/Fraunces
+https://fonts.google.com/specimen/Poppins
+Jika Google Fonts tidak dapat diakses, browser memakai serif/sans-serif pengganti.
 
 ## Referensi dan media
 Tautan sumber akademik/pemerintah tetap tercantum. Naskah penuh tesis, buku,
 video, dan ilustrasi milik penerbit tidak disertakan. Hak atas sumber tersebut
 milik pemegang hak masing-masing. YouTube hanya dimuat jika ID video diisi.
+

@@ -85,3 +85,27 @@ nonkomersial dengan atribusi; hak dan izin ilustrasi Zero Waste yang disediakan
 sebelumnya masih perlu dipastikan sebelum dipublikasikan ulang. File dalam
 repository publik dapat diunduh orang lain. Paket tidak menyertakan kredensial,
 riwayat Git, atau data pribadi tambahan yang tidak ditampilkan di website.
+
+
+## Pembaruan 18 November 2026
+
+- Halaman `/kerja-kami/green-campus-ugm/`: studi literatur Green Campus UGM,
+  video tim, 12 prinsip dengan ilustrasi SVG asli dan penjelasan yang dapat dibuka,
+  alur pengelolaan, evaluasi historis, sumber, dan batas pembacaan.
+- Entri `Studi Literatur Green Campus UGM` dalam `catalogue.json` memasok dropdown
+  dan kartu Kerja Kami sekaligus. Kategori filternya `Studi Literatur`.
+- Isi dan gaya khusus halaman berada dalam `green-campus.js` dan `green-campus.css`.
+  Tidak ada backend atau proses build baru. Fitur buka/tutup menggunakan HTML details.
+- Video `JvvHupUajfQ` memakai YouTube privacy-enhanced embed, autoplay tanpa suara,
+  kontrol bawaan, dan tautan alternatif. Izin autoplay bergantung pada browser;
+  perubahan kebijakan YouTube, pembatasan embed, dan koneksi dapat memengaruhi pemutar.
+- Logo asli kiriman pemilik: `assets/logo-nalar-lestari.png` dan
+  `assets/brandmark-nalar-lestari.png`. Logo penuh digunakan di header/footer;
+  brandmark dipakai sebagai favicon. File PNG tidak diubah; CSS hanya mengatur
+  ukuran tampilan serta ruang transparan di sekeliling logo penuh.
+
+Setelah mengubah navbar, footer, stylesheet utama, atau versi `app.js` dalam
+`index.html`, jalankan `python scripts/sync-routes.py` lalu commit seluruh shell
+halaman yang diperbarui. Skrip juga menjaga rute lama `/kajian/` dan `/media/`.
+`app.js` mengambil katalog tanpa cache dan shell menggunakan versi aset untuk
+mengurangi kemungkinan menu lama tertahan di browser saat pembaruan.

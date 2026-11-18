@@ -48,5 +48,15 @@
       "Diskusi Video"
     ],
     "url": "/kerja-kami/software-spasial/"
+  },
+  {
+    "group": "kerja",
+    "menu": "Studi Literatur Green Campus UGM",
+    "title": "Green Engineering dan Pengelolaan Sampah Berkelanjutan untuk Mewujudkan Green Campus",
+    "desc": "Studi literatur pengelolaan sampah UGM: video ulasan, 12 prinsip rekayasa hijau, alur material, dan evaluasi dalam konteks penelitian.",
+    "categories": [
+      "Studi Literatur"
+    ],
+    "url": "/kerja-kami/green-campus-ugm/"
   }
 ]
